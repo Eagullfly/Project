@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Save_the_Day_Hero_073120.unity
+- path: Assets/Scenes/HeroPrototype.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
